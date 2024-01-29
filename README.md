@@ -15,8 +15,11 @@ Need to install Python, Streamlit,easyOCR, and a database management system like
 # Libaries used:
 
 Pandas - To Create a DataFrame with the scraped data
+
 Psycopg2 - To store and retrieve the data
+
 Streamlit - To Create Graphical user Interface
+
 EasyOCR - To extract text from images
 
 # 2.Design the user interface: 
