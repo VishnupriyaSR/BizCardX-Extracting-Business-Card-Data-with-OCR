@@ -37,3 +37,15 @@ Once the information has been extracted,display it in a clean and organized mann
 # 5.Implement database integration: 
 
 Use a database management system like SQLite or MySQL or Postgre SQL to store the extracted information along with the uploaded business card image.
+
+# Usage
+
+Run the application: streamlit run BizcardX.py
+
+Upload an business card.
+
+Extract the text data from business card using easyocr
+
+Store the data in the connected SQL database.
+
+Manage the data stored in the database by altering the contents in the table or deleting the particular table.
